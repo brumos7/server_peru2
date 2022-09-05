@@ -1,0 +1,1 @@
+web: gunicorn c_finanzas.wsgi --log-file -
